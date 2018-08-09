@@ -21,3 +21,4 @@ D. ```if (length == "75") { // Some block of code to execute }```
 
 My Answers are :B&D
 
+<!-- That's Correct -->
